@@ -7,15 +7,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj-rkv" alt="raj-rkv" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iam_raj_rkv" target="blank"><img src="https://img.shields.io/twitter/follow/iam_raj_rkv?logo=twitter&style=for-the-badge" alt="iam_raj_rkv" /></a> </p>
 
-- 🔭 I’m currently working on **@2BIT Pathshala**
+- 🔭 I’m currently working on **Instacoins.com**
 
 - 🌱 I’m currently learning **SpringBoot.**
 
 - 💬 Ask me about **Java,DSA, AWS, C++, Linux**
 
-- 📫 How to reach me **eng.rkvofficial@gmail.com**
+- 📫 How to reach me **anshulnair.9790@gmail.com**
 
 
 
