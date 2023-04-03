@@ -24,8 +24,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/rajrkv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rajrkv" height="30" width="40" /></a>
-<a href="https://twitter.com/iam_raj_rkv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iam_raj_rkv" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/anshul-nair-764997a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anshul Nair" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anshulnair_9790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Anshul Nair" height="30" width="40" /></a>
 <a href="https://leetcode.com/anshul_72/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Anshul Nair" height="30" width="40" /></a>
